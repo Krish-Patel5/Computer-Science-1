@@ -1,0 +1,7 @@
+[user]
+	email = krish@patel.org
+	name = Krish Patel
+[credential]
+	helper = store --file ~/.git-credentials
+[push]
+	default = matching
